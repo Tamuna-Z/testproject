@@ -1,0 +1,58 @@
+.mainContainer{
+    background-color: #131518;
+    width: 1440px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.secondContainer{
+    width: 412px;
+    height: 416px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color:#232A34;
+  }
+.thankImage{
+    padding-top: 46px;
+}
+.thankButton{
+    width: 154px;
+    height: 24px;
+    background-color: #262E38;
+    border-radius: 23px;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 24px;
+    align-items: center;
+    font-family: overpass;
+    margin-top: 36px;
+    margin-bottom: 36px;
+    margin-left: 140px;
+    display: flex; 
+    color:#FC7614 ;  
+}
+
+.thankTitle{
+    font-weight: 700px;
+    font-size: 28px;
+    line-height: 36px;
+    color: #ffffff;
+    /* margin-bottom: 7px; */
+}
+.thankText{
+    color: #969FAD;
+    font-family: overpass;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height:24px;
+    align-items: center;
+    width: 80%;
+   margin: 0 auto;
+
+}
+/* .thankDiv{
+    text-align: center;
+} */
